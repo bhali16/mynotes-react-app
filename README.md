@@ -1,4 +1,4 @@
 # MyNotes - React App
 
-This project is build used React.js. The backend for the notes app is build using Django.
+This project is build using React.js. The backend for the notes app is build using Django.
 
