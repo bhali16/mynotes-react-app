@@ -10,14 +10,14 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Header />,
-    exact: true, // Add the exact prop here
+    exact: true,
     children: [
       {
         path: "/",
         element: <NotesListPage />,
       },
       {
-        path: "/note",
+        path: "/note/:id",
         element: <NotePage />,
       },
     ],
@@ -26,7 +26,11 @@ const router = createBrowserRouter([
 
 const App = () => {
   return (
-    <RouterProvider router={router} />
+    <div className="container dark">
+      <div className="app">
+        <RouterProvider router={router} />
+      </div>
+    </div>
   )
 }
 
