@@ -12,7 +12,9 @@ const NotePage = () => {
       <div className='note-header'>
         <h3>
           <Link to={'/'}>
+            
             <ArrowLeft/>
+
           </Link>
         </h3>
       </div>
