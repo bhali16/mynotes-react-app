@@ -1,24 +1,14 @@
 {
   "notes": [
     {
-      "id": 1,
-      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
-      "updated": "2021-07-14T13:49:02.078653Z"
-    },
-    {
-      "id": 2,
-      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food",
-      "updated": "2021-07-13T20:43:18.550058Z"
-    },
-    {
       "id": 3,
       "body": "Wash car",
-      "updated": "2021-07-13T19:46:12.187306Z"
+      "updated": "2023-09-17T03:20:48.737Z"
     },
     {
       "id": 4,
-      "body": "Clean kitchen",
-      "updated": "2021-07-12T11:23:01.103191Z",
+      "body": "Clean kitchen\n- Dishes\n- Spoons",
+      "updated": "2023-09-17T03:20:34.888Z",
       "created": "2021-07-12T09:34:56.234567Z"
     },
     {
@@ -45,11 +35,6 @@
       "id": 9,
       "body": "Organize office",
       "updated": "2021-07-16T11:42:08.275621Z"
-    },
-    {
-      "id": 10,
-      "body": "Plan vacation",
-      "updated": "2021-07-17T14:32:11.540721Z"
     }
   ]
 }
